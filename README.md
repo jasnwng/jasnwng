@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasnwng&show_icons=true&theme=dracula)]
+[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasnwng&show_icons=true&theme=transparent)]
 
 
 
